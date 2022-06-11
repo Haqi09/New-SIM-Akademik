@@ -1,0 +1,331 @@
+make.exe all --print-data-base --no-builtin-variables --no-builtin-rules --question
+make: *** No rule to make target 'all'.  Stop.
+
+# GNU Make 4.3
+# Built for Windows32
+# Copyright (C) 1988-2020 Free Software Foundation, Inc.
+# License GPLv3+: GNU GPL version 3 or later <http://gnu.org/licenses/gpl.html>
+# This is free software: you are free to change and redistribute it.
+# There is NO WARRANTY, to the extent permitted by law.
+
+# Make data base, printed on Sat Jun 11 12:47:52 2022
+
+# Variables
+
+# environment
+SYSTEMDRIVE = C:
+# environment
+LC_ALL = C
+# environment
+VBOX_HWVIRTEX_IGNORE_SVM_IN_USE = 1
+# environment
+USERPROFILE = C:\Users\pavilion
+# environment
+VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
+# environment
+LOCALAPPDATA = C:\Users\pavilion\AppData\Local
+# environment
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-da8b8692-bae3-403e-be1b-4f0ec76f0de2-sock
+# environment
+VSCODE_CWD = C:\Users\pavilion\AppData\Local\Programs\Microsoft VS Code
+# environment
+SYSTEMROOT = C:\WINDOWS
+# environment
+PROCESSOR_LEVEL = 23
+# environment
+PSMODULEPATH = C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+# default
+MAKE_COMMAND := make.exe
+# automatic
+@D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
+# environment
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_17864_PHPCJXXAAXAJRERW
+# environment
+VSCODE_HANDLES_UNCAUGHT_ERRORS = true
+# default
+.VARIABLES := 
+# automatic
+%D = $(patsubst %/,%,$(patsubst %\,%,$(dir $%)))
+# automatic
+^D = $(patsubst %/,%,$(patsubst %\,%,$(dir $^)))
+# environment
+VSCODE_LOG_STACK = false
+# automatic
+%F = $(notdir $%)
+# environment
+VSCODE_CODE_CACHE_PATH = C:\Users\pavilion\AppData\Roaming\Code\CachedData\4af164ea3a06f701fe3e89a2bcbb421d2026b68f
+# environment
+LANG = C
+# default
+.LOADED := 
+# environment
+TMP = C:\Users\pavilion\AppData\Local\Temp
+# default
+.INCLUDE_DIRS = .
+# makefile
+MAKEFLAGS = pqrR
+# environment
+INTEL_DEV_REDIST = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+# environment
+ONEDRIVE = C:\Users\pavilion\OneDrive
+# makefile
+CURDIR := d:/Ammal Haqi/Kuliah/Semester 2/Pemrograman Lanjut/OOP/SIM Akademik/SIM Akademik/SIM Akademik
+# environment
+VSCODE_PIPE_LOGGING = true
+# environment
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
+# automatic
+*D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
+# environment
+PROGRAMFILES = C:\Program Files
+# environment
+MFLAGS = -pqrR
+# default
+.SHELLFLAGS := -c
+# environment
+COMMONPROGRAMW6432 = C:\Program Files\Common Files
+# automatic
++D = $(patsubst %/,%,$(patsubst %\,%,$(dir $+)))
+# makefile (from 'Makefile', line 1)
+MAKEFILE_LIST := Makefile
+# automatic
+@F = $(notdir $@)
+# environment
+VSCODE_VERBOSE_LOGGING = true
+# environment
+VSCODE_PID = 17864
+# automatic
+?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
+# environment
+ONLINESERVICES = Online Services
+# environment
+C_EM64T_REDIST11 = C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\
+# automatic
+*F = $(notdir $*)
+# automatic
+<D = $(patsubst %/,%,$(patsubst %\,%,$(dir $<)))
+# environment
+VSCODE_NLS_CONFIG = {"locale":"en-us","availableLanguages":{},"_languagePackSupport":true}
+# environment
+ONEDRIVECONSUMER = C:\Users\pavilion\OneDrive
+# default
+MAKE_HOST := Windows32
+# environment
+PROGRAMDATA = C:\ProgramData
+# default
+SHELL := sh.exe
+# environment
+HOMEPATH = \Users\pavilion
+# default
+MAKECMDGOALS := all
+# environment
+DRIVERDATA = C:\Windows\System32\Drivers\DriverData
+# environment
+COMSPEC = C:\WINDOWS\system32\cmd.exe
+# environment
+WINDIR = C:\WINDOWS
+# environment
+MAKELEVEL := 0
+# default
+MAKE = $(MAKE_COMMAND)
+# environment
+PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Users\pavilion\AppData\Local\Microsoft\WindowsApps;C:\Users\pavilion\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;
+# environment
+COMPUTERNAME = CELESTIA
+# default
+MAKEFILES := 
+# automatic
+^F = $(notdir $^)
+# environment
+PROMPT = $P$G
+# environment
+LOGONSERVER = \\CELESTIA
+# environment
+VSCODE_LOG_NATIVE = false
+# environment
+USERNAME = pavilion
+# environment
+COMMONPROGRAMFILES = C:\Program Files\Common Files
+# automatic
+?F = $(notdir $?)
+# environment
+PROGRAMW6432 = C:\Program Files
+# environment
+PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+# automatic
++F = $(notdir $+)
+# environment
+ORIGINAL_XDG_CURRENT_DESKTOP = undefined
+# environment
+USERDOMAIN = CELESTIA
+# 'override' directive
+GNUMAKEFLAGS := 
+# environment
+OS = Windows_NT
+# environment
+AMDRMSDKPATH = C:\Program Files\AMD\RyzenMasterSDK\
+# makefile
+.DEFAULT_GOAL := sim
+# default
+MAKE_VERSION := 4.3
+# environment
+PLATFORMCODE = KV
+# environment
+PROGRAMFILES(X86) = C:\Program Files (x86)
+# environment
+USERDOMAIN_ROAMINGPROFILE = CELESTIA
+# environment
+NUMBER_OF_PROCESSORS = 12
+# environment
+PUBLIC = C:\Users\Public
+# environment
+APPDATA = C:\Users\pavilion\AppData\Roaming
+# environment
+HOMEDRIVE = C:
+# environment
+PROCESSOR_ARCHITECTURE = AMD64
+# environment
+VSCODE_AMD_ENTRYPOINT = vs/workbench/api/node/extensionHostProcess
+# environment
+COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
+# environment
+ELECTRON_RUN_AS_NODE = 1
+# environment
+TEMP = C:\Users\pavilion\AppData\Local\Temp
+# environment
+VSCODE_IPC_HOOK = \\.\pipe\bfc72579908bd5d34a25c6b2e306398a-1.68.0-main-sock
+# default
+.RECIPEPREFIX := 
+# automatic
+<F = $(notdir $<)
+# default
+SUFFIXES := 
+# environment
+ALLUSERSPROFILE = C:\ProgramData
+# environment
+SESSIONNAME = Console
+# makefile (from 'Makefile', line 2)
+CXXFLAGS = --std=c++17 -O3 -Wall -Wextra -I.
+# default
+.FEATURES := target-specific order-only second-expansion else-if shortest-stem undefine oneshell nocomment grouped-target extra-prereqs archives jobserver output-sync load
+# environment
+MIC_LD_LIBRARY_PATH = C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+# environment
+PROCESSOR_REVISION = 6001
+# environment
+REGIONCODE = APJ
+# makefile (from 'Makefile', line 1)
+CXX = g++ 
+# makefile (from 'Makefile', line 3)
+SOURCES = src/main.cpp src/person.cpp src/mahasiswa.cpp src/dosen.cpp src/tendik.cpp src/matkul.cpp src/pilihan.cpp
+# environment
+PROCESSOR_IDENTIFIER = AMD64 Family 23 Model 96 Stepping 1, AuthenticAMD
+# variable set hash-table stats:
+# Load=104/1024=10%, Rehash=0, Collisions=14/134=10%
+
+# Pattern-specific Variable Values
+
+# No pattern-specific variable values.
+
+# Directories
+
+# src (key d:/Ammal Haqi/Kuliah/Semester 2/Pemrograman Lanjut/OOP/SIM Akademik/SIM Akademik/SIM Akademik/src, mtime 1654926154): No files, no impossibilities so far.
+# . (key d:/Ammal Haqi/Kuliah/Semester 2/Pemrograman Lanjut/OOP/SIM Akademik/SIM Akademik/SIM Akademik, mtime 1654926174): 7 files, no impossibilities.
+
+# 7 files, no impossibilities in 2 directories.
+
+# Implicit Rules
+
+src/%.o: src/%.cpp
+#  recipe to execute (from 'Makefile', line 6):
+	$(CXX) $(CXXFLAGS) -c -o $@ $<
+
+# 1 implicit rules, 0 (0.0%) terminal.
+# Files
+
+# Not a target:
+src/pilihan.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+sim: src/main.o src/person.o src/mahasiswa.o src/dosen.o src/tendik.o src/matkul.o src/pilihan.o
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+#  recipe to execute (from 'Makefile', line 9):
+	$(CXX) $(CXXFLAGS) -o $@ $^
+
+# Not a target:
+Makefile:
+#  Implicit rule search has been done.
+#  Last modified 2022-06-11 11:31:43
+#  File has been updated.
+#  Successfully updated.
+
+# Not a target:
+src/main.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+.DEFAULT:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+all:
+#  Command line target.
+#  Implicit rule search has been done.
+#  File does not exist.
+#  File has not been updated.
+
+# Not a target:
+src/tendik.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/mahasiswa.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/matkul.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/person.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# Not a target:
+src/dosen.o:
+#  Implicit rule search has not been done.
+#  Modification time never checked.
+#  File has not been updated.
+
+# files hash-table stats:
+# Load=12/1024=1%, Rehash=0, Collisions=0/29=0%
+# VPATH Search Paths
+
+# No 'vpath' search paths.
+
+# No general ('VPATH' variable) search path.
+
+# strcache buffers: 1 (0) / strings = 20 / storage = 179 B / avg = 8 B
+# current buf: size = 8162 B / used = 179 B / count = 20 / avg = 8 B
+
+# strcache performance: lookups = 26 / hit rate = 23%
+# hash-table stats:
+# Load=20/8192=0%, Rehash=0, Collisions=0/26=0%
+# Finished Make data base on Sat Jun 11 12:47:52 2022
+
+ 
